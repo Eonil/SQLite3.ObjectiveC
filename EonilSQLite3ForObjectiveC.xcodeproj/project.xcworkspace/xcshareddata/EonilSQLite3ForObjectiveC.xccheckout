@@ -10,22 +10,18 @@
 	<string>EonilSQLite3ForObjectiveC</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>120EA977BD48968EAB2368B0255C2CBB634BF08E</key>
-		<string>https://github.com/Eonil/Monolith.git</string>
 		<key>FD55AFA91F3CC977FF03288DC234AB1C17693E11</key>
-		<string>https://github.com/Eonil/SQLite3.git</string>
+		<string>https://github.com/Eonil/SQLite3.ObjectiveC.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ObjectiveC/EonilSQLite3ForObjectiveC.xcodeproj</string>
+	<string>EonilSQLite3ForObjectiveC.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>120EA977BD48968EAB2368B0255C2CBB634BF08E</key>
-		<string>../../../../..</string>
 		<key>FD55AFA91F3CC977FF03288DC234AB1C17693E11</key>
-		<string>../../..</string>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Eonil/SQLite3.git</string>
+	<string>https://github.com/Eonil/SQLite3.ObjectiveC.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
@@ -36,17 +32,9 @@
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>120EA977BD48968EAB2368B0255C2CBB634BF08E</string>
-			<key>IDESourceControlWCCName</key>
-			<string>..</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>FD55AFA91F3CC977FF03288DC234AB1C17693E11</string>
 			<key>IDESourceControlWCCName</key>
-			<string>SQLite3</string>
+			<string>SQLite3.ObjectiveC</string>
 		</dict>
 	</array>
 </dict>
